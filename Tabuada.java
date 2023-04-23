@@ -11,8 +11,6 @@ public class Tabuada {
             System.out.println(num + " * " + i + " = " + i * num);
             i++;
         }
-
-
-
+        
     }
 }
